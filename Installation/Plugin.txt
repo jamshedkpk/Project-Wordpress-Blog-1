@@ -5,5 +5,24 @@
 (c) Copy gallery short code and paste where you want to use it
 
 (2) Responsive Menu: This plugin is used for making a responsive menu for mobile phone
-(a) Download & Active the plugin
+(a) Download & Activate the plugin
 (b) Go to Responsive Menu and create a menu 
+
+(3) Smart Slider 3: This plugin is used to display a slider
+(a) Download & Activate the plugin
+(b) Create new slider and choose images
+(c) Copy slider code and paste it where you want to use it. 
+(d) If you want to use it in sidebar or else where then it provides php code copy it
+and go to Appearance\Theme File Editor select the file sidebar or other and paste it 
+
+(4) Classic Editor: This plugin is used for editor
+(a) Download & Active the plugin
+
+(5) Recent Posts With Thumbnail: This plugin is used to show recent posts with thumbnail
+(a) Download & Activate the plugin
+(b) Go to widget and select the plugin to use
+
+(6) Rss Feeds: This plugin is used to show information or data of other website in our own website
+    Different website provides rss feed we can use and display data
+(a) Download & Activate the plugin
+(b) Copy its short code enter your url and paste it where you want to use 
