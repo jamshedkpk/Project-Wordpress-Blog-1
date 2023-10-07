@@ -1,1 +1,9 @@
 =====> Important plugin in wordpress <=====
+(1) Responsive Lightbox & Gallery: This plugin is used for making a responsive image gallery inside wordpress
+(a) Download & Activate the plugin
+(b) Make a gellery
+(c) Copy gallery short code and paste where you want to use it
+
+(2) Responsive Menu: This plugin is used for making a responsive menu for mobile phone
+(a) Download & Active the plugin
+(b) Go to Responsive Menu and create a menu 
