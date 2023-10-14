@@ -60,3 +60,31 @@ for success or fail for contact form 7
 (13) reCaptia: This plugin is used to prevent contact form 7 to be filled by fake data or spams
 (a) Go to google and type reCaptia 3 provide your site information and receive site key and secret key
 (b) Go to Form/Integration/reCaptia provide to site key & secret key
+
+(14) WPB Popup for Contact Form 7: This plugin is used to show Contact Form 7 in popup with a button click
+(a) Download & Activate the plugin
+(b) Copy button code and paste it where you want to show the form 
+
+(15) Easy WP SMTP: This plugin is used to configure email in your website
+(a) Download & Activate the plugin
+(b) Go to dashboard and configure it
+
+(16) WP Datepicker: This plugin is used for adding datepicker to your form
+(a) Download & Activate the plugin
+(b) Go to plugin & its setting create a class name
+(c) Go to form create new field with this class name
+
+(17) GTranslate: This plugin is used for translating your website into many languages
+(a) Download & Activate the plugin
+(b) Go to GTranslate setting and configure it 
+
+(18) How to add google map location: Go to google map, select your location, press share button and click embed a map button
+copy code create new page paste the code 
+
+(19) Preloader: This plugin is used for adding a preloader to your website
+(a) Download & Activate the plugin
+(b) Go to plugin, preloader , setting & configure it. copy its div code
+(c) Go to appearance, theme file editor, header.php and paste it inside body tag
+
+(20) How to remove sidebar: Go to appearance, theme file editor, remove <?php get_sidebar(); ?> part from any page
+to remove sidebar
