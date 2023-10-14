@@ -26,3 +26,37 @@ and go to Appearance\Theme File Editor select the file sidebar or other and past
     Different website provides rss feed we can use and display data
 (a) Download & Activate the plugin
 (b) Copy its short code enter your url and paste it where you want to use 
+
+(7) Testimonial: This plugin is used for making testimonial for your wordpress website
+(a) Download & Activate the plugin 
+(b) Go to testimonial and add different testimonial
+(c) Go to short code and add new short code
+(d) Go to page create new page and add testimonial
+
+(8) Smush: This plugin is used for compress images in website
+(a) Download & Activate the plugin
+(b) Go to smush dashboard & configure it 
+
+(9) Simple Social Icon: This plugin is used for adding social media icons like facebook etc to your website
+(a) Download & Activate the plugin 
+(b) Go to widget and add it here
+
+(10) Contact Form 7: This plugin is used for adding a contact form for email in your website
+(a) Download & Activate the plugin
+(b) Go to contact dashboard and add new form with required fields
+(c) Go to email option in form dashboard and configure it
+(d) Go to page and create new page and paste the short code of form
+
+(11) Contact Form 7 Database Addon: This plugin is used to receive contact form 7 data in our website. Normally Contact 
+Form 7 sends data to our email but we can receive data by using this plugin
+(a) Download & Activate the plugin
+(b) Go to Contact Form dashboard & watch the form
+
+(12) Success Fail Popup Message For Contact Form 7: This plugin is used to show message of popup
+for success or fail for contact form 7
+(a) Download & Activate the plugin
+(b) Go to contact form dashboard and set popup setting
+
+(13) reCaptia: This plugin is used to prevent contact form 7 to be filled by fake data or spams
+(a) Go to google and type reCaptia 3 provide your site information and receive site key and secret key
+(b) Go to Form/Integration/reCaptia provide to site key & secret key
