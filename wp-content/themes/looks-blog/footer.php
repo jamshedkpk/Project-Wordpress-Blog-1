@@ -59,13 +59,8 @@
 			<div class="container">
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'looks-blog' ), 'WordPress' );
+				printf( esc_html__( 'All Rights Are Reserved By  %s', 'looks-blog' ), 'Govt!' );
 				?>
-				<span class="sep"> | </span>
-					<?php
-					/* translators: 1: Theme name, 2: Theme author. */
-					printf( esc_html__( 'Theme: %1$s by %2$s.', 'looks-blog' ), 'Looks Blog', 'Crimson Themes' );
-					?>
 			</div>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->

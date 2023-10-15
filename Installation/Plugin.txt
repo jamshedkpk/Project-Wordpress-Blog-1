@@ -88,3 +88,32 @@ copy code create new page paste the code
 
 (20) How to remove sidebar: Go to appearance, theme file editor, remove <?php get_sidebar(); ?> part from any page
 to remove sidebar
+
+(21) Easy Update Manager: This plugin is used to manage easy update for all plugin & themes
+(a) Download & Activate the plugin
+(b) Go to plugin, easy update manager select plugin update off select themes update off
+
+(22) How to reset password: Go to phpmyadmin, select user table , select edit change password and select md5
+
+(23) Accordian FAQ: This plugin is used for making a responsive Accordian FAQ Section
+(a) Download & Activate the plugin
+(b) Go to Accordian Dashboard and create different FAQ copy short code
+(c) Create a page for FAQ and paste the short code
+
+(23) AddToAny Share Buttons: This plugin is used for sharing your contents to any social media plateform
+(a) Download & Activate the plugin
+(b) Go to plugin & its setting 
+
+(24) How to change user name: Go to phpmyadmin open database and change user name
+
+(25) Easy Google Fonts: This plugin is used for adding any google font to website
+(a) Download & Activate the plugin
+(b) When you activate the plugin then it is automatically bind to your wordpress thems
+(c) Go to Appearance, Customize, Typhography 
+
+(26) How to change footer.php file
+Go to Appearance, Theme File Editor select footer.php and change the text as you wish
+
+(27) Elementor: Elementor is a plugin which provides best features for all types. It also provides layout option
+we can make our website more customizalbe through elementor
+
