@@ -114,6 +114,7 @@ to remove sidebar
 (26) How to change footer.php file
 Go to Appearance, Theme File Editor select footer.php and change the text as you wish
 
-(27) Elementor: Elementor is a plugin which provides best features for all types. It also provides layout option
+(27) Elementor: Elementor is a page builder plugin which provides best features. It also provides layout option
 we can make our website more customizalbe through elementor
+
 
